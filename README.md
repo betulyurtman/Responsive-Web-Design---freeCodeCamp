@@ -8,4 +8,4 @@ This repository includes the codes for Responsive Web Design course on freeCodeC
 
 
 
-<img width="251" alt="CatPhotoApp-2" src="https://github.com/betulyurtman/Responsive-Web-Design-freeCodeCamp/assets/96620871/a6a0f842-3b96-4f65-9d0d-44a80a33190d">
+<img width="920" alt="CatPhotoApp-3" src="https://github.com/betulyurtman/Responsive-Web-Design-freeCodeCamp/assets/96620871/86980d6f-a719-44f9-a3c1-f796621d596c">
